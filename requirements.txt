@@ -2,4 +2,4 @@ streamlit
 openai==0.28
 numpy
 pypdf
-python-dotenv
+python-dotenv # optional, if you want to load .env for your API key
